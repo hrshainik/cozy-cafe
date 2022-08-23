@@ -77,6 +77,6 @@ Project Link: [https://github.com/hrshainik/cozy-cafe](https://github.com/hrshai
 
 <p align="right"><a href="#top">⇧Back To Top</a></p>
 
-[product-screenshot]: assets/img/cozy-cafe-bd.netlify.app.png
+[product-screenshot]: assets/img/product-showcase.jpg
 
 
